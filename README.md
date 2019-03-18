@@ -1,5 +1,5 @@
-#About
-Quick boilerplate to setup a python project.
+# About
+Boilerplate to quickly setup a python project.
 
 # Startup and Development
 ### Getting into the virtual environment

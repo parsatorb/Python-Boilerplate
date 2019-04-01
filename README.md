@@ -1,6 +1,9 @@
 # About
 Boilerplate to quickly setup a python project.
 
+### Dependancies
+Python 3.7 or above
+
 # Startup and Development
 ### Getting into the virtual environment
 To begin work on this project, run the following command in bash. It is recommended to do this after a pull as well.
